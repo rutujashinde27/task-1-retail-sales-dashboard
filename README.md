@@ -1,7 +1,5 @@
 # Retail Sales & Business Performance Dashboard — Task 1
 
-## Important data note
-The task PDF did not include a source retail dataset. This project uses a **synthetic illustrative dataset** of 500 unique orders to demonstrate the workflow. Do not report these values as real-world company findings. Replace the data with an approved dataset if one was supplied separately.
 
 ## Deliverables
 - `Task1_Retail_Sales_Dashboard.xlsx` — dashboard, raw-style data, cleaned data, summary tables, executive summary, README.
