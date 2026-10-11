@@ -1,0 +1,501 @@
+Order ID,Order Date,Region,City,Customer Segment,Sales Channel,Category,Product,Units Sold,Unit Price,Discount %,Revenue,Cost,Profit,Month,Month Number,Year,Profit Margin
+ORD0228,2025-01-01,South,Hyderabad,Corporate,Online,Furniture,Desk,5,320,0.1,1440.0,1100,340.0,Jan,1,2025,0.2361111111111111
+ORD0020,2025-01-01,East,Patna,Corporate,In-Store,Technology,USB Hub,13,30,0.15,331.5,156,175.5,Jan,1,2025,0.5294117647058824
+ORD0165,2025-01-02,South,Chennai,Consumer,Online,Office Supplies,Pens Set,13,12,0.15,132.6,52,80.6,Jan,1,2025,0.6078431372549019
+ORD0034,2025-01-02,South,Chennai,Corporate,In-Store,Office Supplies,Notebook Pack,3,15,0.1,40.5,18,22.5,Jan,1,2025,0.5555555555555556
+ORD0224,2025-01-03,South,Bengaluru,Consumer,In-Store,Furniture,Lamp,8,55,0.15,374.0,216,158.0,Jan,1,2025,0.42245989304812837
+ORD0439,2025-01-07,North,Delhi,Consumer,In-Store,Technology,USB Hub,1,30,0.0,30.0,12,18.0,Jan,1,2025,0.6
+ORD0154,2025-01-08,West,Pune,Small Business,Online,Furniture,Bookshelf,2,150,0.1,270.0,190,80.0,Jan,1,2025,0.2962962962962963
+ORD0411,2025-01-09,North,Delhi,Consumer,In-Store,Technology,Wireless Mouse,11,25,0.1,247.5,110,137.5,Jan,1,2025,0.5555555555555556
+ORD0227,2025-01-09,North,Jaipur,Small Business,Partner,Technology,Monitor,10,220,0.15,1870.0,1450,420.0,Jan,1,2025,0.22459893048128343
+ORD0231,2025-01-09,North,Chandigarh,Consumer,In-Store,Furniture,Lamp,6,55,0.05,313.5,162,151.5,Jan,1,2025,0.48325358851674644
+ORD0343,2025-01-09,North,Jaipur,Small Business,Partner,Furniture,Bookshelf,9,150,0.05,1282.5,855,427.5,Jan,1,2025,0.3333333333333333
+ORD0460,2025-01-12,North,Delhi,Consumer,Partner,Furniture,Filing Cabinet,5,210,0.0,1050.0,675,375.0,Jan,1,2025,0.35714285714285715
+ORD0081,2025-01-14,South,Chennai,Small Business,Partner,Office Supplies,Pens Set,10,12,0.15,102.0,40,62.0,Jan,1,2025,0.6078431372549019
+ORD0423,2025-01-14,Central,Nagpur,Corporate,Online,Furniture,Filing Cabinet,5,210,0.2,840.0,675,165.0,Jan,1,2025,0.19642857142857142
+ORD0370,2025-01-14,Central,Nagpur,Corporate,Partner,Furniture,Desk,11,320,0.15,2992.0,2420,572.0,Jan,1,2025,0.19117647058823528
+ORD0166,2025-01-14,Central,Bhopal,Consumer,In-Store,Office Supplies,Pens Set,2,12,0.2,19.2,8,11.2,Jan,1,2025,0.5833333333333334
+ORD0468,2025-01-16,South,Chennai,Consumer,In-Store,Technology,Headphones,10,80,0.0,800.0,350,450.0,Jan,1,2025,0.5625
+ORD0002,2025-01-16,Central,Bhopal,Consumer,Online,Technology,USB Hub,7,30,0.0,210.0,84,126.0,Jan,1,2025,0.6
+ORD0112,2025-01-17,West,Mumbai,Corporate,Partner,Furniture,Filing Cabinet,8,210,0.05,1596.0,1080,516.0,Jan,1,2025,0.3233082706766917
+ORD0480,2025-01-17,North,Delhi,Small Business,In-Store,Furniture,Filing Cabinet,7,210,0.15,1249.5,945,304.5,Jan,1,2025,0.24369747899159663
+ORD0150,2025-01-18,North,Jaipur,Corporate,Partner,Furniture,Office Chair,5,180,0.1,810.0,575,235.0,Jan,1,2025,0.29012345679012347
+ORD0122,2025-01-19,West,Pune,Consumer,In-Store,Office Supplies,Printer Paper,14,22,0.15,261.8,196,65.8,Jan,1,2025,0.25133689839572193
+ORD0234,2025-01-19,South,Chennai,Consumer,Online,Technology,Wireless Mouse,12,25,0.1,270.0,120,150.0,Jan,1,2025,0.5555555555555556
+ORD0138,2025-01-19,East,Patna,Consumer,Online,Furniture,Lamp,14,55,0.15,654.5,378,276.5,Jan,1,2025,0.42245989304812837
+ORD0295,2025-01-20,North,Delhi,Corporate,Online,Technology,USB Hub,4,30,0.15,102.0,48,54.0,Jan,1,2025,0.5294117647058824
+ORD0117,2025-01-21,Central,Indore,Small Business,In-Store,Office Supplies,Printer Paper,2,22,0.15,37.4,28,9.4,Jan,1,2025,0.25133689839572193
+ORD0192,2025-01-22,Central,Indore,Consumer,In-Store,Furniture,Bookshelf,2,150,0.1,270.0,190,80.0,Jan,1,2025,0.2962962962962963
+ORD0140,2025-01-24,South,Chennai,Consumer,In-Store,Furniture,Bookshelf,15,150,0.0,2250.0,1425,825.0,Jan,1,2025,0.36666666666666664
+ORD0236,2025-01-25,East,Patna,Corporate,In-Store,Technology,Keyboard,5,45,0.05,213.75,90,123.75,Jan,1,2025,0.5789473684210527
+ORD0186,2025-01-26,North,Jaipur,Consumer,In-Store,Technology,Keyboard,13,45,0.15,497.25,234,263.25,Jan,1,2025,0.5294117647058824
+ORD0084,2025-01-27,North,Chandigarh,Consumer,Partner,Office Supplies,Notebook Pack,12,15,0.15,153.0,72,81.0,Jan,1,2025,0.5294117647058824
+ORD0432,2025-01-30,East,Kolkata,Consumer,In-Store,Furniture,Lamp,12,55,0.0,660.0,324,336.0,Jan,1,2025,0.509090909090909
+ORD0404,2025-01-31,East,Bhubaneswar,Small Business,Online,Furniture,Office Chair,3,180,0.1,486.0,345,141.0,Jan,1,2025,0.29012345679012347
+ORD0402,2025-01-31,Central,Nagpur,Corporate,Partner,Technology,Keyboard,14,45,0.0,630.0,252,378.0,Jan,1,2025,0.6
+ORD0341,2025-01-31,North,Jaipur,Small Business,Partner,Technology,USB Hub,8,30,0.05,228.0,96,132.0,Jan,1,2025,0.5789473684210527
+ORD0262,2025-01-31,West,Mumbai,Corporate,In-Store,Office Supplies,Printer Paper,2,22,0.2,35.2,28,7.2,Jan,1,2025,0.20454545454545453
+ORD0036,2025-02-01,South,Hyderabad,Corporate,Online,Technology,USB Hub,12,30,0.15,306.0,144,162.0,Feb,2,2025,0.5294117647058824
+ORD0170,2025-02-01,Central,Indore,Corporate,In-Store,Office Supplies,Printer Paper,11,22,0.0,242.0,154,88.0,Feb,2,2025,0.36363636363636365
+ORD0076,2025-02-02,South,Chennai,Corporate,In-Store,Office Supplies,Pens Set,12,12,0.0,144.0,48,96.0,Feb,2,2025,0.6666666666666666
+ORD0176,2025-02-04,East,Kolkata,Consumer,Online,Office Supplies,Pens Set,11,12,0.1,118.8,44,74.8,Feb,2,2025,0.6296296296296297
+ORD0243,2025-02-04,Central,Bhopal,Small Business,In-Store,Furniture,Lamp,1,55,0.0,55.0,27,28.0,Feb,2,2025,0.509090909090909
+ORD0200,2025-02-04,Central,Indore,Corporate,Partner,Office Supplies,Desk Organizer,3,28,0.1,75.6,33,42.6,Feb,2,2025,0.5634920634920636
+ORD0043,2025-02-05,Central,Bhopal,Corporate,In-Store,Office Supplies,Pens Set,15,12,0.05,171.0,60,111.0,Feb,2,2025,0.6491228070175439
+ORD0371,2025-02-05,South,Chennai,Small Business,In-Store,Office Supplies,Desk Organizer,14,28,0.2,313.6,154,159.6,Feb,2,2025,0.5089285714285714
+ORD0427,2025-02-07,East,Kolkata,Small Business,Online,Furniture,Desk,13,320,0.1,3744.0,2860,884.0,Feb,2,2025,0.2361111111111111
+ORD0111,2025-02-08,North,Delhi,Consumer,In-Store,Technology,Keyboard,3,45,0.15,114.75,54,60.75,Feb,2,2025,0.5294117647058824
+ORD0202,2025-02-09,West,Ahmedabad,Consumer,Partner,Technology,Wireless Mouse,6,25,0.05,142.5,60,82.5,Feb,2,2025,0.5789473684210527
+ORD0430,2025-02-10,Central,Nagpur,Consumer,Online,Technology,Headphones,2,80,0.05,152.0,70,82.0,Feb,2,2025,0.5394736842105263
+ORD0499,2025-02-10,West,Pune,Small Business,Online,Furniture,Desk,8,320,0.05,2432.0,1760,672.0,Feb,2,2025,0.27631578947368424
+ORD0008,2025-02-10,North,Delhi,Consumer,In-Store,Technology,Keyboard,13,45,0.05,555.75,234,321.75,Feb,2,2025,0.5789473684210527
+ORD0222,2025-02-11,West,Pune,Consumer,Online,Furniture,Bookshelf,4,150,0.1,540.0,380,160.0,Feb,2,2025,0.2962962962962963
+ORD0039,2025-02-11,South,Chennai,Small Business,Partner,Furniture,Filing Cabinet,1,210,0.15,178.5,135,43.5,Feb,2,2025,0.24369747899159663
+ORD0429,2025-02-12,Central,Nagpur,Small Business,Partner,Office Supplies,Printer Paper,12,22,0.1,237.6,168,69.6,Feb,2,2025,0.29292929292929293
+ORD0229,2025-02-13,Central,Nagpur,Corporate,Online,Office Supplies,Pens Set,11,12,0.2,105.6,44,61.6,Feb,2,2025,0.5833333333333334
+ORD0482,2025-02-15,South,Hyderabad,Small Business,Partner,Office Supplies,Desk Organizer,3,28,0.2,67.2,33,34.2,Feb,2,2025,0.5089285714285714
+ORD0455,2025-02-16,East,Kolkata,Small Business,In-Store,Office Supplies,Desk Organizer,14,28,0.0,392.0,154,238.0,Feb,2,2025,0.6071428571428571
+ORD0047,2025-02-17,East,Patna,Corporate,In-Store,Furniture,Lamp,5,55,0.0,275.0,135,140.0,Feb,2,2025,0.509090909090909
+ORD0408,2025-02-17,East,Patna,Corporate,Partner,Furniture,Office Chair,14,180,0.2,2016.0,1610,406.0,Feb,2,2025,0.2013888888888889
+ORD0098,2025-02-17,West,Pune,Consumer,In-Store,Furniture,Lamp,8,55,0.0,440.0,216,224.0,Feb,2,2025,0.509090909090909
+ORD0175,2025-02-18,East,Bhubaneswar,Corporate,In-Store,Office Supplies,Printer Paper,7,22,0.2,123.2,98,25.2,Feb,2,2025,0.20454545454545453
+ORD0489,2025-02-21,South,Chennai,Consumer,Online,Furniture,Lamp,3,55,0.0,165.0,81,84.0,Feb,2,2025,0.509090909090909
+ORD0469,2025-02-21,Central,Bhopal,Small Business,Online,Office Supplies,Stapler,4,18,0.0,72.0,28,44.0,Feb,2,2025,0.6111111111111112
+ORD0042,2025-02-21,North,Delhi,Small Business,Online,Technology,Monitor,10,220,0.15,1870.0,1450,420.0,Feb,2,2025,0.22459893048128343
+ORD0417,2025-02-22,West,Mumbai,Corporate,In-Store,Technology,Keyboard,7,45,0.0,315.0,126,189.0,Feb,2,2025,0.6
+ORD0005,2025-02-22,East,Kolkata,Corporate,Online,Technology,Keyboard,13,45,0.05,555.75,234,321.75,Feb,2,2025,0.5789473684210527
+ORD0091,2025-02-24,East,Bhubaneswar,Corporate,Partner,Technology,Monitor,14,220,0.1,2772.0,2030,742.0,Feb,2,2025,0.2676767676767677
+ORD0054,2025-02-25,South,Chennai,Consumer,In-Store,Office Supplies,Pens Set,13,12,0.2,124.8,52,72.8,Feb,2,2025,0.5833333333333334
+ORD0453,2025-02-25,South,Bengaluru,Consumer,Online,Technology,Keyboard,3,45,0.15,114.75,54,60.75,Feb,2,2025,0.5294117647058824
+ORD0015,2025-02-26,Central,Bhopal,Small Business,Online,Office Supplies,Notebook Pack,13,15,0.0,195.0,78,117.0,Feb,2,2025,0.6
+ORD0049,2025-02-27,West,Mumbai,Small Business,Online,Furniture,Lamp,9,55,0.0,495.0,243,252.0,Feb,2,2025,0.509090909090909
+ORD0106,2025-02-28,South,Bengaluru,Corporate,In-Store,Technology,Headphones,14,80,0.1,1008.0,490,518.0,Feb,2,2025,0.5138888888888888
+ORD0087,2025-02-28,East,Kolkata,Corporate,Online,Office Supplies,Pens Set,10,12,0.15,102.0,40,62.0,Feb,2,2025,0.6078431372549019
+ORD0388,2025-02-28,Central,Indore,Corporate,In-Store,Office Supplies,Stapler,7,18,0.15,107.1,49,58.1,Feb,2,2025,0.542483660130719
+ORD0086,2025-02-28,South,Hyderabad,Consumer,In-Store,Technology,Keyboard,8,45,0.2,288.0,144,144.0,Feb,2,2025,0.5
+ORD0057,2025-03-01,West,Pune,Consumer,Partner,Furniture,Filing Cabinet,6,210,0.0,1260.0,810,450.0,Mar,3,2025,0.35714285714285715
+ORD0158,2025-03-01,South,Bengaluru,Consumer,Partner,Technology,Wireless Mouse,5,25,0.1,112.5,50,62.5,Mar,3,2025,0.5555555555555556
+ORD0416,2025-03-03,West,Pune,Small Business,Online,Technology,Wireless Mouse,12,25,0.05,285.0,120,165.0,Mar,3,2025,0.5789473684210527
+ORD0071,2025-03-04,Central,Indore,Consumer,In-Store,Office Supplies,Notebook Pack,9,15,0.0,135.0,54,81.0,Mar,3,2025,0.6
+ORD0461,2025-03-04,West,Mumbai,Corporate,Online,Technology,Wireless Mouse,15,25,0.05,356.25,150,206.25,Mar,3,2025,0.5789473684210527
+ORD0252,2025-03-08,Central,Nagpur,Consumer,Online,Furniture,Bookshelf,8,150,0.15,1020.0,760,260.0,Mar,3,2025,0.2549019607843137
+ORD0410,2025-03-08,East,Patna,Corporate,In-Store,Office Supplies,Desk Organizer,9,28,0.15,214.2,99,115.2,Mar,3,2025,0.5378151260504203
+ORD0459,2025-03-08,South,Bengaluru,Corporate,In-Store,Technology,Wireless Mouse,1,25,0.0,25.0,10,15.0,Mar,3,2025,0.6
+ORD0415,2025-03-09,North,Jaipur,Consumer,Partner,Technology,Keyboard,8,45,0.0,360.0,144,216.0,Mar,3,2025,0.6
+ORD0125,2025-03-09,West,Pune,Corporate,Partner,Technology,Keyboard,5,45,0.15,191.25,90,101.25,Mar,3,2025,0.5294117647058824
+ORD0214,2025-03-09,North,Jaipur,Corporate,Online,Furniture,Bookshelf,15,150,0.15,1912.5,1425,487.5,Mar,3,2025,0.2549019607843137
+ORD0412,2025-03-09,West,Ahmedabad,Corporate,Online,Technology,Monitor,4,220,0.2,704.0,580,124.0,Mar,3,2025,0.17613636363636365
+ORD0426,2025-03-09,Central,Indore,Small Business,In-Store,Technology,Headphones,15,80,0.05,1140.0,525,615.0,Mar,3,2025,0.5394736842105263
+ORD0365,2025-03-11,Central,Indore,Consumer,In-Store,Furniture,Desk,8,320,0.0,2560.0,1760,800.0,Mar,3,2025,0.3125
+ORD0248,2025-03-11,East,Kolkata,Corporate,Online,Furniture,Lamp,4,55,0.0,220.0,108,112.0,Mar,3,2025,0.509090909090909
+ORD0293,2025-03-12,East,Kolkata,Small Business,Online,Furniture,Lamp,2,55,0.2,88.0,54,34.0,Mar,3,2025,0.38636363636363635
+ORD0223,2025-03-12,East,Kolkata,Corporate,In-Store,Technology,Headphones,13,80,0.0,1040.0,455,585.0,Mar,3,2025,0.5625
+ORD0001,2025-03-13,North,Jaipur,Consumer,Partner,Technology,Headphones,4,80,0.0,320.0,140,180.0,Mar,3,2025,0.5625
+ORD0013,2025-03-13,West,Mumbai,Small Business,Partner,Office Supplies,Printer Paper,3,22,0.05,62.7,42,20.7,Mar,3,2025,0.3301435406698564
+ORD0481,2025-03-14,Central,Indore,Small Business,Online,Technology,USB Hub,2,30,0.1,54.0,24,30.0,Mar,3,2025,0.5555555555555556
+ORD0263,2025-03-15,West,Pune,Small Business,In-Store,Office Supplies,Pens Set,6,12,0.15,61.2,24,37.2,Mar,3,2025,0.607843137254902
+ORD0335,2025-03-16,East,Kolkata,Corporate,Partner,Office Supplies,Notebook Pack,10,15,0.0,150.0,60,90.0,Mar,3,2025,0.6
+ORD0456,2025-03-17,Central,Bhopal,Small Business,Online,Technology,Keyboard,14,45,0.05,598.5,252,346.5,Mar,3,2025,0.5789473684210527
+ORD0050,2025-03-17,Central,Indore,Consumer,Online,Technology,Headphones,10,80,0.15,680.0,350,330.0,Mar,3,2025,0.4852941176470588
+ORD0244,2025-03-20,East,Patna,Corporate,In-Store,Office Supplies,Stapler,1,18,0.15,15.3,7,8.3,Mar,3,2025,0.542483660130719
+ORD0136,2025-03-21,North,Delhi,Corporate,In-Store,Furniture,Desk,7,320,0.2,1792.0,1540,252.0,Mar,3,2025,0.140625
+ORD0438,2025-03-22,North,Chandigarh,Consumer,Partner,Office Supplies,Stapler,3,18,0.05,51.3,21,30.3,Mar,3,2025,0.5906432748538012
+ORD0037,2025-03-22,North,Delhi,Small Business,Online,Furniture,Lamp,9,55,0.15,420.75,243,177.75,Mar,3,2025,0.42245989304812837
+ORD0144,2025-03-22,North,Delhi,Corporate,In-Store,Office Supplies,Desk Organizer,11,28,0.15,261.8,121,140.8,Mar,3,2025,0.5378151260504201
+ORD0266,2025-03-23,East,Bhubaneswar,Small Business,Partner,Office Supplies,Stapler,7,18,0.0,126.0,49,77.0,Mar,3,2025,0.6111111111111112
+ORD0304,2025-03-23,North,Chandigarh,Small Business,Partner,Furniture,Office Chair,8,180,0.05,1368.0,920,448.0,Mar,3,2025,0.32748538011695905
+ORD0004,2025-03-23,South,Hyderabad,Corporate,In-Store,Office Supplies,Stapler,5,18,0.0,90.0,35,55.0,Mar,3,2025,0.6111111111111112
+ORD0121,2025-03-24,West,Pune,Corporate,Partner,Office Supplies,Desk Organizer,11,28,0.0,308.0,121,187.0,Mar,3,2025,0.6071428571428571
+ORD0487,2025-03-24,North,Jaipur,Consumer,Partner,Technology,Headphones,3,80,0.1,216.0,105,111.0,Mar,3,2025,0.5138888888888888
+ORD0152,2025-03-26,Central,Indore,Corporate,In-Store,Office Supplies,Stapler,9,18,0.05,153.9,63,90.9,Mar,3,2025,0.5906432748538012
+ORD0419,2025-03-26,Central,Indore,Corporate,Partner,Furniture,Office Chair,10,180,0.2,1440.0,1150,290.0,Mar,3,2025,0.2013888888888889
+ORD0033,2025-03-27,Central,Indore,Corporate,In-Store,Technology,Wireless Mouse,15,25,0.0,375.0,150,225.0,Mar,3,2025,0.6
+ORD0363,2025-03-27,East,Bhubaneswar,Corporate,In-Store,Office Supplies,Printer Paper,3,22,0.0,66.0,42,24.0,Mar,3,2025,0.36363636363636365
+ORD0338,2025-03-28,West,Mumbai,Small Business,Partner,Office Supplies,Pens Set,12,12,0.05,136.8,48,88.8,Mar,3,2025,0.6491228070175438
+ORD0066,2025-03-28,South,Hyderabad,Consumer,In-Store,Furniture,Lamp,13,55,0.2,572.0,351,221.0,Mar,3,2025,0.38636363636363635
+ORD0280,2025-03-29,South,Hyderabad,Small Business,Partner,Furniture,Office Chair,10,180,0.1,1620.0,1150,470.0,Mar,3,2025,0.29012345679012347
+ORD0194,2025-03-29,East,Patna,Corporate,Partner,Technology,Monitor,1,220,0.05,209.0,145,64.0,Mar,3,2025,0.3062200956937799
+ORD0493,2025-03-29,West,Ahmedabad,Corporate,Online,Technology,Wireless Mouse,1,25,0.0,25.0,10,15.0,Mar,3,2025,0.6
+ORD0392,2025-03-30,West,Ahmedabad,Consumer,In-Store,Furniture,Filing Cabinet,12,210,0.2,2016.0,1620,396.0,Mar,3,2025,0.19642857142857142
+ORD0442,2025-04-02,East,Kolkata,Small Business,Online,Technology,USB Hub,11,30,0.0,330.0,132,198.0,Apr,4,2025,0.6
+ORD0103,2025-04-02,North,Chandigarh,Consumer,Partner,Technology,Headphones,4,80,0.05,304.0,140,164.0,Apr,4,2025,0.5394736842105263
+ORD0390,2025-04-04,East,Bhubaneswar,Small Business,Online,Technology,Keyboard,5,45,0.0,225.0,90,135.0,Apr,4,2025,0.6
+ORD0082,2025-04-04,North,Delhi,Corporate,In-Store,Technology,Monitor,3,220,0.1,594.0,435,159.0,Apr,4,2025,0.2676767676767677
+ORD0095,2025-04-04,East,Bhubaneswar,Consumer,In-Store,Technology,Monitor,14,220,0.05,2926.0,2030,896.0,Apr,4,2025,0.3062200956937799
+ORD0301,2025-04-05,East,Kolkata,Corporate,In-Store,Technology,Monitor,11,220,0.0,2420.0,1595,825.0,Apr,4,2025,0.3409090909090909
+ORD0246,2025-04-06,East,Bhubaneswar,Small Business,In-Store,Technology,Wireless Mouse,1,25,0.2,20.0,10,10.0,Apr,4,2025,0.5
+ORD0299,2025-04-06,East,Kolkata,Small Business,In-Store,Technology,Monitor,11,220,0.05,2299.0,1595,704.0,Apr,4,2025,0.3062200956937799
+ORD0472,2025-04-07,East,Bhubaneswar,Small Business,In-Store,Furniture,Filing Cabinet,3,210,0.15,535.5,405,130.5,Apr,4,2025,0.24369747899159663
+ORD0129,2025-04-08,South,Hyderabad,Small Business,Partner,Office Supplies,Stapler,3,18,0.1,48.6,21,27.6,Apr,4,2025,0.5679012345679012
+ORD0059,2025-04-08,Central,Indore,Consumer,Partner,Furniture,Office Chair,7,180,0.15,1071.0,805,266.0,Apr,4,2025,0.24836601307189543
+ORD0197,2025-04-10,North,Chandigarh,Corporate,Partner,Furniture,Office Chair,9,180,0.15,1377.0,1035,342.0,Apr,4,2025,0.24836601307189543
+ORD0445,2025-04-11,South,Hyderabad,Small Business,Online,Office Supplies,Desk Organizer,10,28,0.1,252.0,110,142.0,Apr,4,2025,0.5634920634920635
+ORD0336,2025-04-11,Central,Indore,Consumer,In-Store,Furniture,Lamp,5,55,0.0,275.0,135,140.0,Apr,4,2025,0.509090909090909
+ORD0198,2025-04-12,South,Bengaluru,Small Business,Online,Technology,Wireless Mouse,3,25,0.05,71.25,30,41.25,Apr,4,2025,0.5789473684210527
+ORD0294,2025-04-13,West,Pune,Corporate,In-Store,Furniture,Lamp,8,55,0.2,352.0,216,136.0,Apr,4,2025,0.38636363636363635
+ORD0218,2025-04-13,West,Ahmedabad,Consumer,In-Store,Furniture,Filing Cabinet,7,210,0.0,1470.0,945,525.0,Apr,4,2025,0.35714285714285715
+ORD0474,2025-04-14,Central,Bhopal,Corporate,Partner,Office Supplies,Notebook Pack,6,15,0.15,76.5,36,40.5,Apr,4,2025,0.5294117647058824
+ORD0040,2025-04-15,Central,Nagpur,Small Business,In-Store,Furniture,Bookshelf,15,150,0.05,2137.5,1425,712.5,Apr,4,2025,0.3333333333333333
+ORD0380,2025-04-16,South,Hyderabad,Corporate,In-Store,Office Supplies,Desk Organizer,6,28,0.1,151.2,66,85.2,Apr,4,2025,0.5634920634920636
+ORD0051,2025-04-18,East,Patna,Consumer,Partner,Office Supplies,Notebook Pack,15,15,0.05,213.75,90,123.75,Apr,4,2025,0.5789473684210527
+ORD0260,2025-04-18,North,Jaipur,Corporate,Partner,Technology,USB Hub,5,30,0.2,120.0,60,60.0,Apr,4,2025,0.5
+ORD0046,2025-04-18,Central,Nagpur,Corporate,Online,Technology,Headphones,5,80,0.15,340.0,175,165.0,Apr,4,2025,0.4852941176470588
+ORD0331,2025-04-19,South,Bengaluru,Small Business,Online,Office Supplies,Desk Organizer,15,28,0.0,420.0,165,255.0,Apr,4,2025,0.6071428571428571
+ORD0290,2025-04-20,West,Mumbai,Small Business,In-Store,Furniture,Bookshelf,12,150,0.1,1620.0,1140,480.0,Apr,4,2025,0.2962962962962963
+ORD0307,2025-04-22,Central,Bhopal,Small Business,Partner,Office Supplies,Stapler,13,18,0.2,187.2,91,96.2,Apr,4,2025,0.513888888888889
+ORD0321,2025-04-22,North,Delhi,Consumer,Partner,Office Supplies,Printer Paper,4,22,0.15,74.8,56,18.8,Apr,4,2025,0.25133689839572193
+ORD0079,2025-04-23,Central,Indore,Consumer,In-Store,Furniture,Filing Cabinet,13,210,0.15,2320.5,1755,565.5,Apr,4,2025,0.24369747899159663
+ORD0346,2025-04-26,West,Pune,Small Business,Online,Office Supplies,Stapler,4,18,0.2,57.6,28,29.6,Apr,4,2025,0.513888888888889
+ORD0127,2025-04-26,Central,Bhopal,Corporate,Online,Technology,USB Hub,7,30,0.0,210.0,84,126.0,Apr,4,2025,0.6
+ORD0153,2025-04-26,East,Patna,Small Business,Partner,Technology,Monitor,2,220,0.0,440.0,290,150.0,Apr,4,2025,0.3409090909090909
+ORD0055,2025-04-27,South,Bengaluru,Consumer,Partner,Technology,Monitor,6,220,0.05,1254.0,870,384.0,Apr,4,2025,0.3062200956937799
+ORD0148,2025-04-28,Central,Nagpur,Corporate,Online,Furniture,Lamp,14,55,0.05,731.5,378,353.5,Apr,4,2025,0.48325358851674644
+ORD0340,2025-04-29,North,Delhi,Small Business,Online,Technology,Monitor,3,220,0.2,528.0,435,93.0,Apr,4,2025,0.17613636363636365
+ORD0414,2025-04-30,North,Chandigarh,Small Business,Online,Office Supplies,Desk Organizer,12,28,0.2,268.8,132,136.8,Apr,4,2025,0.5089285714285714
+ORD0113,2025-04-30,East,Bhubaneswar,Small Business,Partner,Furniture,Lamp,2,55,0.2,88.0,54,34.0,Apr,4,2025,0.38636363636363635
+ORD0473,2025-04-30,South,Hyderabad,Consumer,Online,Office Supplies,Notebook Pack,2,15,0.0,30.0,12,18.0,Apr,4,2025,0.6
+ORD0292,2025-04-30,South,Bengaluru,Consumer,In-Store,Technology,USB Hub,4,30,0.2,96.0,48,48.0,Apr,4,2025,0.5
+ORD0133,2025-04-30,East,Bhubaneswar,Consumer,In-Store,Technology,Keyboard,10,45,0.1,405.0,180,225.0,Apr,4,2025,0.5555555555555556
+ORD0067,2025-05-01,Central,Nagpur,Corporate,Online,Furniture,Filing Cabinet,6,210,0.0,1260.0,810,450.0,May,5,2025,0.35714285714285715
+ORD0038,2025-05-01,South,Chennai,Consumer,Partner,Technology,USB Hub,2,30,0.2,48.0,24,24.0,May,5,2025,0.5
+ORD0251,2025-05-02,Central,Indore,Consumer,In-Store,Technology,Wireless Mouse,4,25,0.0,100.0,40,60.0,May,5,2025,0.6
+ORD0027,2025-05-02,North,Chandigarh,Small Business,In-Store,Technology,Headphones,2,80,0.15,136.0,70,66.0,May,5,2025,0.4852941176470588
+ORD0021,2025-05-03,North,Delhi,Consumer,Partner,Technology,Headphones,15,80,0.05,1140.0,525,615.0,May,5,2025,0.5394736842105263
+ORD0126,2025-05-03,West,Ahmedabad,Consumer,In-Store,Technology,Wireless Mouse,11,25,0.15,233.75,110,123.75,May,5,2025,0.5294117647058824
+ORD0268,2025-05-04,North,Delhi,Small Business,In-Store,Technology,Monitor,9,220,0.1,1782.0,1305,477.0,May,5,2025,0.2676767676767677
+ORD0319,2025-05-04,North,Delhi,Consumer,Online,Technology,Monitor,10,220,0.0,2200.0,1450,750.0,May,5,2025,0.3409090909090909
+ORD0281,2025-05-05,Central,Bhopal,Small Business,Partner,Office Supplies,Pens Set,14,12,0.2,134.4,56,78.4,May,5,2025,0.5833333333333334
+ORD0195,2025-05-05,East,Bhubaneswar,Small Business,In-Store,Technology,Monitor,14,220,0.0,3080.0,2030,1050.0,May,5,2025,0.3409090909090909
+ORD0010,2025-05-06,North,Delhi,Corporate,In-Store,Furniture,Desk,9,320,0.2,2304.0,1980,324.0,May,5,2025,0.140625
+ORD0405,2025-05-07,South,Hyderabad,Corporate,In-Store,Technology,Keyboard,12,45,0.05,513.0,216,297.0,May,5,2025,0.5789473684210527
+ORD0364,2025-05-07,East,Patna,Small Business,In-Store,Office Supplies,Notebook Pack,6,15,0.05,85.5,36,49.5,May,5,2025,0.5789473684210527
+ORD0085,2025-05-07,North,Delhi,Consumer,Partner,Furniture,Office Chair,13,180,0.0,2340.0,1495,845.0,May,5,2025,0.3611111111111111
+ORD0265,2025-05-07,South,Bengaluru,Consumer,Online,Office Supplies,Notebook Pack,5,15,0.1,67.5,30,37.5,May,5,2025,0.5555555555555556
+ORD0458,2025-05-08,West,Mumbai,Corporate,Online,Office Supplies,Stapler,12,18,0.15,183.6,84,99.6,May,5,2025,0.5424836601307189
+ORD0483,2025-05-08,East,Patna,Consumer,In-Store,Office Supplies,Notebook Pack,5,15,0.0,75.0,30,45.0,May,5,2025,0.6
+ORD0190,2025-05-11,South,Chennai,Corporate,Online,Office Supplies,Pens Set,13,12,0.0,156.0,52,104.0,May,5,2025,0.6666666666666666
+ORD0435,2025-05-13,East,Kolkata,Corporate,Online,Furniture,Filing Cabinet,13,210,0.2,2184.0,1755,429.0,May,5,2025,0.19642857142857142
+ORD0496,2025-05-15,West,Mumbai,Corporate,Partner,Technology,Headphones,8,80,0.1,576.0,280,296.0,May,5,2025,0.5138888888888888
+ORD0018,2025-05-15,East,Patna,Consumer,Partner,Office Supplies,Pens Set,8,12,0.0,96.0,32,64.0,May,5,2025,0.6666666666666666
+ORD0270,2025-05-16,Central,Nagpur,Corporate,In-Store,Technology,Wireless Mouse,7,25,0.0,175.0,70,105.0,May,5,2025,0.6
+ORD0279,2025-05-16,East,Patna,Small Business,Partner,Furniture,Office Chair,10,180,0.1,1620.0,1150,470.0,May,5,2025,0.29012345679012347
+ORD0167,2025-05-16,South,Bengaluru,Consumer,Partner,Furniture,Bookshelf,1,150,0.0,150.0,95,55.0,May,5,2025,0.36666666666666664
+ORD0045,2025-05-16,Central,Bhopal,Consumer,Partner,Office Supplies,Notebook Pack,15,15,0.0,225.0,90,135.0,May,5,2025,0.6
+ORD0238,2025-05-17,West,Mumbai,Small Business,In-Store,Furniture,Lamp,6,55,0.15,280.5,162,118.5,May,5,2025,0.42245989304812837
+ORD0345,2025-05-17,Central,Indore,Consumer,In-Store,Furniture,Bookshelf,14,150,0.05,1995.0,1330,665.0,May,5,2025,0.3333333333333333
+ORD0017,2025-05-17,Central,Nagpur,Corporate,Online,Technology,Wireless Mouse,11,25,0.15,233.75,110,123.75,May,5,2025,0.5294117647058824
+ORD0100,2025-05-19,West,Indore,Corporate,Online,Office Supplies,Desk Organizer,12,28,0.1,302.4,132,170.4,May,5,2025,0.5634920634920636
+ORD0128,2025-05-20,South,Chennai,Corporate,In-Store,Office Supplies,Desk Organizer,9,28,0.2,201.6,99,102.6,May,5,2025,0.5089285714285714
+ORD0182,2025-05-20,North,Jaipur,Corporate,In-Store,Furniture,Bookshelf,1,150,0.0,150.0,95,55.0,May,5,2025,0.36666666666666664
+ORD0220,2025-05-20,North,Chandigarh,Small Business,Online,Office Supplies,Notebook Pack,13,15,0.0,195.0,78,117.0,May,5,2025,0.6
+ORD0463,2025-05-21,West,Pune,Corporate,Online,Technology,Headphones,4,80,0.0,320.0,140,180.0,May,5,2025,0.5625
+ORD0074,2025-05-21,East,Bhubaneswar,Consumer,Partner,Furniture,Lamp,11,55,0.0,605.0,297,308.0,May,5,2025,0.509090909090909
+ORD0396,2025-05-21,Central,Bhopal,Small Business,In-Store,Technology,Keyboard,5,45,0.0,225.0,90,135.0,May,5,2025,0.6
+ORD0162,2025-05-22,Central,Bhopal,Consumer,In-Store,Furniture,Bookshelf,1,150,0.1,135.0,95,40.0,May,5,2025,0.2962962962962963
+ORD0286,2025-05-23,East,Patna,Corporate,Online,Furniture,Lamp,4,55,0.0,220.0,108,112.0,May,5,2025,0.509090909090909
+ORD0056,2025-05-23,South,Chennai,Small Business,Partner,Office Supplies,Desk Organizer,5,28,0.0,140.0,55,85.0,May,5,2025,0.6071428571428571
+ORD0188,2025-05-26,Central,Nagpur,Small Business,Partner,Technology,Headphones,7,80,0.0,560.0,245,315.0,May,5,2025,0.5625
+ORD0297,2025-05-26,Central,Indore,Small Business,Partner,Furniture,Office Chair,15,180,0.05,2565.0,1725,840.0,May,5,2025,0.32748538011695905
+ORD0289,2025-05-28,West,Ahmedabad,Consumer,In-Store,Office Supplies,Pens Set,5,12,0.0,60.0,20,40.0,May,5,2025,0.6666666666666666
+ORD0296,2025-05-29,North,Delhi,Consumer,In-Store,Office Supplies,Printer Paper,3,22,0.2,52.8,42,10.8,May,5,2025,0.20454545454545456
+ORD0486,2025-05-31,South,Bengaluru,Corporate,In-Store,Technology,Monitor,2,220,0.0,440.0,290,150.0,May,5,2025,0.3409090909090909
+ORD0479,2025-05-31,South,Bengaluru,Consumer,Partner,Office Supplies,Desk Organizer,12,28,0.2,268.8,132,136.8,May,5,2025,0.5089285714285714
+ORD0492,2025-05-31,North,Jaipur,Small Business,Partner,Office Supplies,Notebook Pack,7,15,0.0,105.0,42,63.0,May,5,2025,0.6
+ORD0379,2025-06-01,South,Chennai,Consumer,Online,Office Supplies,Notebook Pack,8,15,0.0,120.0,48,72.0,Jun,6,2025,0.6
+ORD0356,2025-06-01,Central,Bhopal,Small Business,Online,Furniture,Lamp,2,55,0.15,93.5,54,39.5,Jun,6,2025,0.42245989304812837
+ORD0457,2025-06-03,East,Bhubaneswar,Consumer,Online,Office Supplies,Stapler,1,18,0.2,14.4,7,7.4,Jun,6,2025,0.513888888888889
+ORD0323,2025-06-03,East,Bhubaneswar,Consumer,Partner,Technology,USB Hub,4,30,0.1,108.0,48,60.0,Jun,6,2025,0.5555555555555556
+ORD0089,2025-06-04,North,Jaipur,Small Business,Online,Furniture,Desk,2,320,0.2,512.0,440,72.0,Jun,6,2025,0.140625
+ORD0157,2025-06-04,North,Jaipur,Corporate,Online,Furniture,Lamp,15,55,0.2,660.0,405,255.0,Jun,6,2025,0.38636363636363635
+ORD0261,2025-06-04,North,Chandigarh,Consumer,Partner,Office Supplies,Stapler,5,18,0.2,72.0,35,37.0,Jun,6,2025,0.5138888888888888
+ORD0358,2025-06-07,East,Bhubaneswar,Corporate,In-Store,Office Supplies,Notebook Pack,2,15,0.0,30.0,12,18.0,Jun,6,2025,0.6
+ORD0210,2025-06-08,West,Ahmedabad,Corporate,Partner,Technology,USB Hub,12,30,0.0,360.0,144,216.0,Jun,6,2025,0.6
+ORD0433,2025-06-08,North,Jaipur,Small Business,Partner,Office Supplies,Stapler,10,18,0.0,180.0,70,110.0,Jun,6,2025,0.6111111111111112
+ORD0443,2025-06-09,West,Pune,Consumer,Partner,Technology,Monitor,14,220,0.05,2926.0,2030,896.0,Jun,6,2025,0.3062200956937799
+ORD0325,2025-06-13,East,Patna,Corporate,In-Store,Furniture,Lamp,13,55,0.15,607.75,351,256.75,Jun,6,2025,0.42245989304812837
+ORD0276,2025-06-13,Central,Bhopal,Corporate,Partner,Technology,Headphones,15,80,0.15,1020.0,525,495.0,Jun,6,2025,0.4852941176470588
+ORD0441,2025-06-13,West,Pune,Consumer,Partner,Technology,Headphones,4,80,0.1,288.0,140,148.0,Jun,6,2025,0.5138888888888888
+ORD0171,2025-06-14,North,Jaipur,Consumer,Online,Office Supplies,Printer Paper,2,22,0.0,44.0,28,16.0,Jun,6,2025,0.36363636363636365
+ORD0065,2025-06-14,South,Chennai,Corporate,In-Store,Office Supplies,Stapler,10,18,0.2,144.0,70,74.0,Jun,6,2025,0.5138888888888888
+ORD0256,2025-06-15,Central,Nagpur,Consumer,In-Store,Technology,Headphones,3,80,0.0,240.0,105,135.0,Jun,6,2025,0.5625
+ORD0011,2025-06-16,East,Kolkata,Consumer,Online,Furniture,Filing Cabinet,4,210,0.2,672.0,540,132.0,Jun,6,2025,0.19642857142857142
+ORD0185,2025-06-16,West,Ahmedabad,Small Business,Online,Office Supplies,Pens Set,6,12,0.05,68.4,24,44.4,Jun,6,2025,0.6491228070175438
+ORD0156,2025-06-17,South,Hyderabad,Consumer,Partner,Office Supplies,Notebook Pack,10,15,0.15,127.5,60,67.5,Jun,6,2025,0.5294117647058824
+ORD0452,2025-06-17,East,Bhubaneswar,Corporate,In-Store,Office Supplies,Printer Paper,12,22,0.2,211.2,168,43.2,Jun,6,2025,0.20454545454545456
+ORD0137,2025-06-18,East,Patna,Small Business,In-Store,Furniture,Lamp,11,55,0.0,605.0,297,308.0,Jun,6,2025,0.509090909090909
+ORD0061,2025-06-19,South,Hyderabad,Corporate,Partner,Office Supplies,Printer Paper,2,22,0.2,35.2,28,7.2,Jun,6,2025,0.20454545454545453
+ORD0383,2025-06-19,South,Hyderabad,Corporate,In-Store,Furniture,Desk,9,320,0.0,2880.0,1980,900.0,Jun,6,2025,0.3125
+ORD0232,2025-06-20,South,Bengaluru,Consumer,In-Store,Furniture,Office Chair,13,180,0.15,1989.0,1495,494.0,Jun,6,2025,0.24836601307189543
+ORD0053,2025-06-20,South,Chennai,Small Business,Partner,Technology,Monitor,1,220,0.0,220.0,145,75.0,Jun,6,2025,0.3409090909090909
+ORD0436,2025-06-21,East,Bhubaneswar,Corporate,Partner,Furniture,Office Chair,13,180,0.0,2340.0,1495,845.0,Jun,6,2025,0.3611111111111111
+ORD0259,2025-06-22,South,Hyderabad,Consumer,Online,Technology,USB Hub,12,30,0.15,306.0,144,162.0,Jun,6,2025,0.5294117647058824
+ORD0025,2025-06-23,West,Mumbai,Small Business,Partner,Technology,Keyboard,4,45,0.0,180.0,72,108.0,Jun,6,2025,0.6
+ORD0196,2025-06-23,Central,Bhopal,Corporate,Online,Technology,Monitor,14,220,0.05,2926.0,2030,896.0,Jun,6,2025,0.3062200956937799
+ORD0212,2025-06-24,North,Chandigarh,Consumer,Online,Office Supplies,Desk Organizer,3,28,0.0,84.0,33,51.0,Jun,6,2025,0.6071428571428571
+ORD0130,2025-06-24,South,Hyderabad,Corporate,Online,Technology,Headphones,13,80,0.1,936.0,455,481.0,Jun,6,2025,0.5138888888888888
+ORD0285,2025-06-25,East,Patna,Corporate,Partner,Technology,Monitor,15,220,0.15,2805.0,2175,630.0,Jun,6,2025,0.22459893048128343
+ORD0058,2025-06-26,East,Patna,Corporate,In-Store,Technology,Wireless Mouse,10,25,0.1,225.0,100,125.0,Jun,6,2025,0.5555555555555556
+ORD0497,2025-06-26,North,Jaipur,Corporate,Partner,Technology,Wireless Mouse,2,25,0.2,40.0,20,20.0,Jun,6,2025,0.5
+ORD0313,2025-06-26,South,Hyderabad,Consumer,Partner,Furniture,Office Chair,1,180,0.1,162.0,115,47.0,Jun,6,2025,0.29012345679012347
+ORD0318,2025-06-27,Central,Bhopal,Corporate,Online,Office Supplies,Pens Set,4,12,0.1,43.2,16,27.2,Jun,6,2025,0.6296296296296295
+ORD0353,2025-06-27,South,Bengaluru,Consumer,In-Store,Furniture,Office Chair,9,180,0.2,1296.0,1035,261.0,Jun,6,2025,0.2013888888888889
+ORD0221,2025-06-28,West,Mumbai,Corporate,Online,Technology,Keyboard,14,45,0.1,567.0,252,315.0,Jun,6,2025,0.5555555555555556
+ORD0078,2025-06-30,North,Chandigarh,Corporate,In-Store,Furniture,Lamp,8,55,0.0,440.0,216,224.0,Jun,6,2025,0.509090909090909
+ORD0241,2025-06-30,West,Ahmedabad,Corporate,In-Store,Office Supplies,Printer Paper,1,22,0.2,17.6,14,3.6,Jun,6,2025,0.20454545454545453
+ORD0009,2025-07-01,East,Kolkata,Small Business,In-Store,Office Supplies,Desk Organizer,3,28,0.05,79.8,33,46.8,Jul,7,2025,0.5864661654135338
+ORD0375,2025-07-01,North,Delhi,Small Business,Partner,Technology,Keyboard,11,45,0.2,396.0,198,198.0,Jul,7,2025,0.5
+ORD0478,2025-07-02,East,Kolkata,Small Business,Partner,Technology,USB Hub,12,30,0.15,306.0,144,162.0,Jul,7,2025,0.5294117647058824
+ORD0146,2025-07-03,West,Ahmedabad,Corporate,Partner,Technology,Keyboard,7,45,0.15,267.75,126,141.75,Jul,7,2025,0.5294117647058824
+ORD0333,2025-07-03,East,Bhubaneswar,Corporate,In-Store,Office Supplies,Printer Paper,9,22,0.2,158.4,126,32.4,Jul,7,2025,0.20454545454545453
+ORD0161,2025-07-05,East,Kolkata,Small Business,In-Store,Technology,Monitor,8,220,0.0,1760.0,1160,600.0,Jul,7,2025,0.3409090909090909
+ORD0124,2025-07-05,West,Ahmedabad,Corporate,Partner,Office Supplies,Notebook Pack,4,15,0.15,51.0,24,27.0,Jul,7,2025,0.5294117647058824
+ORD0308,2025-07-05,North,Delhi,Small Business,Online,Furniture,Lamp,9,55,0.2,396.0,243,153.0,Jul,7,2025,0.38636363636363635
+ORD0369,2025-07-06,South,Bengaluru,Small Business,Online,Office Supplies,Printer Paper,5,22,0.1,99.0,70,29.0,Jul,7,2025,0.29292929292929293
+ORD0305,2025-07-08,East,Patna,Consumer,Online,Furniture,Office Chair,11,180,0.05,1881.0,1265,616.0,Jul,7,2025,0.32748538011695905
+ORD0180,2025-07-08,West,Mumbai,Corporate,Partner,Technology,Wireless Mouse,6,25,0.15,127.5,60,67.5,Jul,7,2025,0.5294117647058824
+ORD0495,2025-07-09,North,Chandigarh,Corporate,Online,Furniture,Filing Cabinet,7,210,0.0,1470.0,945,525.0,Jul,7,2025,0.35714285714285715
+ORD0413,2025-07-10,East,Patna,Small Business,Online,Technology,Headphones,5,80,0.0,400.0,175,225.0,Jul,7,2025,0.5625
+ORD0273,2025-07-11,Central,Indore,Small Business,In-Store,Technology,Keyboard,2,45,0.1,81.0,36,45.0,Jul,7,2025,0.5555555555555556
+ORD0088,2025-07-12,Central,Indore,Small Business,Online,Technology,Headphones,10,80,0.2,640.0,350,290.0,Jul,7,2025,0.453125
+ORD0406,2025-07-12,South,Chennai,Consumer,Partner,Furniture,Bookshelf,11,150,0.1,1485.0,1045,440.0,Jul,7,2025,0.2962962962962963
+ORD0447,2025-07-12,North,Jaipur,Small Business,In-Store,Office Supplies,Notebook Pack,13,15,0.2,156.0,78,78.0,Jul,7,2025,0.5
+ORD0315,2025-07-12,West,Mumbai,Small Business,Partner,Office Supplies,Printer Paper,8,22,0.1,158.4,112,46.4,Jul,7,2025,0.29292929292929293
+ORD0485,2025-07-12,West,Mumbai,Corporate,Partner,Office Supplies,Printer Paper,6,22,0.15,112.2,84,28.2,Jul,7,2025,0.25133689839572193
+ORD0329,2025-07-13,North,Jaipur,Small Business,Partner,Furniture,Desk,1,320,0.05,304.0,220,84.0,Jul,7,2025,0.27631578947368424
+ORD0362,2025-07-14,South,Bengaluru,Consumer,In-Store,Furniture,Filing Cabinet,3,210,0.2,504.0,405,99.0,Jul,7,2025,0.19642857142857142
+ORD0191,2025-07-14,North,Jaipur,Small Business,Online,Office Supplies,Printer Paper,3,22,0.0,66.0,42,24.0,Jul,7,2025,0.36363636363636365
+ORD0083,2025-07-14,East,Bhubaneswar,Corporate,In-Store,Technology,Monitor,6,220,0.05,1254.0,870,384.0,Jul,7,2025,0.3062200956937799
+ORD0466,2025-07-15,Central,Nagpur,Corporate,In-Store,Technology,USB Hub,13,30,0.0,390.0,156,234.0,Jul,7,2025,0.6
+ORD0142,2025-07-15,South,Hyderabad,Small Business,Online,Technology,Keyboard,2,45,0.15,76.5,36,40.5,Jul,7,2025,0.5294117647058824
+ORD0465,2025-07-16,Central,Bhopal,Corporate,Online,Office Supplies,Notebook Pack,2,15,0.05,28.5,12,16.5,Jul,7,2025,0.5789473684210527
+ORD0361,2025-07-18,East,Kolkata,Small Business,Partner,Office Supplies,Notebook Pack,5,15,0.1,67.5,30,37.5,Jul,7,2025,0.5555555555555556
+ORD0385,2025-07-19,Central,Bhopal,Small Business,Online,Technology,Monitor,10,220,0.1,1980.0,1450,530.0,Jul,7,2025,0.2676767676767677
+ORD0424,2025-07-20,Central,Indore,Small Business,Online,Furniture,Filing Cabinet,4,210,0.2,672.0,540,132.0,Jul,7,2025,0.19642857142857142
+ORD0462,2025-07-22,South,Chennai,Consumer,In-Store,Furniture,Lamp,14,55,0.2,616.0,378,238.0,Jul,7,2025,0.38636363636363635
+ORD0189,2025-07-22,West,Ahmedabad,Consumer,Online,Furniture,Bookshelf,1,150,0.0,150.0,95,55.0,Jul,7,2025,0.36666666666666664
+ORD0312,2025-07-22,Central,Indore,Consumer,Partner,Office Supplies,Desk Organizer,12,28,0.0,336.0,132,204.0,Jul,7,2025,0.6071428571428571
+ORD0428,2025-07-23,North,Jaipur,Corporate,Partner,Office Supplies,Pens Set,1,12,0.0,12.0,4,8.0,Jul,7,2025,0.6666666666666666
+ORD0332,2025-07-23,West,Mumbai,Small Business,In-Store,Technology,USB Hub,12,30,0.0,360.0,144,216.0,Jul,7,2025,0.6
+ORD0014,2025-07-24,Central,Indore,Consumer,Online,Office Supplies,Stapler,7,18,0.15,107.1,49,58.1,Jul,7,2025,0.542483660130719
+ORD0193,2025-07-27,North,Jaipur,Small Business,In-Store,Office Supplies,Stapler,7,18,0.15,107.1,49,58.1,Jul,7,2025,0.542483660130719
+ORD0097,2025-07-28,Central,Indore,Small Business,Online,Technology,Wireless Mouse,4,25,0.2,80.0,40,40.0,Jul,7,2025,0.5
+ORD0314,2025-07-29,North,Delhi,Consumer,Partner,Technology,Monitor,1,220,0.05,209.0,145,64.0,Jul,7,2025,0.3062200956937799
+ORD0253,2025-07-29,East,Patna,Consumer,Online,Office Supplies,Printer Paper,9,22,0.1,178.2,126,52.2,Jul,7,2025,0.292929292929293
+ORD0311,2025-08-01,West,Pune,Small Business,Online,Technology,Monitor,3,220,0.15,561.0,435,126.0,Aug,8,2025,0.22459893048128343
+ORD0151,2025-08-01,South,Bengaluru,Consumer,Online,Technology,Headphones,6,80,0.2,384.0,210,174.0,Aug,8,2025,0.453125
+ORD0327,2025-08-02,South,Hyderabad,Small Business,Online,Office Supplies,Notebook Pack,9,15,0.1,121.5,54,67.5,Aug,8,2025,0.5555555555555556
+ORD0282,2025-08-03,North,Delhi,Corporate,Partner,Technology,Wireless Mouse,8,25,0.05,190.0,80,110.0,Aug,8,2025,0.5789473684210527
+ORD0226,2025-08-03,South,Hyderabad,Small Business,In-Store,Office Supplies,Notebook Pack,1,15,0.0,15.0,6,9.0,Aug,8,2025,0.6
+ORD0077,2025-08-04,Central,Indore,Small Business,Partner,Office Supplies,Printer Paper,1,22,0.0,22.0,14,8.0,Aug,8,2025,0.36363636363636365
+ORD0070,2025-08-06,South,Bengaluru,Consumer,Partner,Technology,Wireless Mouse,15,25,0.0,375.0,150,225.0,Aug,8,2025,0.6
+ORD0324,2025-08-07,Central,Nagpur,Corporate,Online,Furniture,Desk,11,320,0.2,2816.0,2420,396.0,Aug,8,2025,0.140625
+ORD0109,2025-08-08,West,Pune,Small Business,Partner,Office Supplies,Desk Organizer,14,28,0.15,333.2,154,179.2,Aug,8,2025,0.5378151260504201
+ORD0409,2025-08-08,East,Kolkata,Corporate,In-Store,Technology,USB Hub,7,30,0.0,210.0,84,126.0,Aug,8,2025,0.6
+ORD0174,2025-08-09,North,Chandigarh,Consumer,In-Store,Furniture,Filing Cabinet,12,210,0.0,2520.0,1620,900.0,Aug,8,2025,0.35714285714285715
+ORD0376,2025-08-09,North,Delhi,Consumer,Online,Furniture,Lamp,13,55,0.05,679.25,351,328.25,Aug,8,2025,0.48325358851674644
+ORD0029,2025-08-09,West,Pune,Corporate,In-Store,Technology,Wireless Mouse,2,25,0.2,40.0,20,20.0,Aug,8,2025,0.5
+ORD0255,2025-08-10,Central,Nagpur,Consumer,Online,Furniture,Filing Cabinet,3,210,0.0,630.0,405,225.0,Aug,8,2025,0.35714285714285715
+ORD0348,2025-08-11,North,Jaipur,Corporate,Partner,Furniture,Desk,2,320,0.1,576.0,440,136.0,Aug,8,2025,0.2361111111111111
+ORD0477,2025-08-12,East,Patna,Corporate,Partner,Office Supplies,Desk Organizer,3,28,0.0,84.0,33,51.0,Aug,8,2025,0.6071428571428571
+ORD0400,2025-08-13,West,Mumbai,Consumer,Online,Office Supplies,Desk Organizer,14,28,0.0,392.0,154,238.0,Aug,8,2025,0.6071428571428571
+ORD0484,2025-08-13,East,Patna,Corporate,Online,Technology,Wireless Mouse,1,25,0.1,22.5,10,12.5,Aug,8,2025,0.5555555555555556
+ORD0215,2025-08-13,South,Bengaluru,Corporate,In-Store,Technology,USB Hub,13,30,0.0,390.0,156,234.0,Aug,8,2025,0.6
+ORD0237,2025-08-14,North,Chandigarh,Corporate,Online,Office Supplies,Printer Paper,15,22,0.1,297.0,210,87.0,Aug,8,2025,0.29292929292929293
+ORD0366,2025-08-14,East,Bhubaneswar,Corporate,Partner,Furniture,Lamp,13,55,0.05,679.25,351,328.25,Aug,8,2025,0.48325358851674644
+ORD0135,2025-08-14,South,Bengaluru,Small Business,In-Store,Furniture,Filing Cabinet,6,210,0.0,1260.0,810,450.0,Aug,8,2025,0.35714285714285715
+ORD0032,2025-08-15,South,Hyderabad,Consumer,Online,Office Supplies,Printer Paper,4,22,0.0,88.0,56,32.0,Aug,8,2025,0.36363636363636365
+ORD0187,2025-08-15,West,Pune,Corporate,Online,Furniture,Lamp,8,55,0.15,374.0,216,158.0,Aug,8,2025,0.42245989304812837
+ORD0395,2025-08-16,West,Pune,Consumer,Online,Furniture,Lamp,7,55,0.2,308.0,189,119.0,Aug,8,2025,0.38636363636363635
+ORD0302,2025-08-17,South,Chennai,Corporate,In-Store,Technology,Headphones,7,80,0.0,560.0,245,315.0,Aug,8,2025,0.5625
+ORD0216,2025-08-18,South,Bengaluru,Small Business,Online,Office Supplies,Stapler,5,18,0.2,72.0,35,37.0,Aug,8,2025,0.5138888888888888
+ORD0359,2025-08-18,North,Jaipur,Small Business,Partner,Technology,Wireless Mouse,3,25,0.1,67.5,30,37.5,Aug,8,2025,0.5555555555555556
+ORD0073,2025-08-19,Central,Indore,Consumer,Partner,Office Supplies,Pens Set,12,12,0.1,129.6,48,81.6,Aug,8,2025,0.6296296296296297
+ORD0381,2025-08-20,West,Pune,Consumer,In-Store,Technology,Monitor,12,220,0.2,2112.0,1740,372.0,Aug,8,2025,0.17613636363636365
+ORD0145,2025-08-22,Central,Indore,Consumer,In-Store,Office Supplies,Printer Paper,12,22,0.05,250.8,168,82.8,Aug,8,2025,0.3301435406698564
+ORD0006,2025-08-24,East,Patna,Consumer,In-Store,Office Supplies,Stapler,5,18,0.0,90.0,35,55.0,Aug,8,2025,0.6111111111111112
+ORD0233,2025-08-26,Central,Nagpur,Corporate,Partner,Office Supplies,Pens Set,14,12,0.2,134.4,56,78.4,Aug,8,2025,0.5833333333333334
+ORD0298,2025-08-28,Central,Indore,Consumer,Online,Office Supplies,Pens Set,14,12,0.15,142.8,56,86.8,Aug,8,2025,0.6078431372549019
+ORD0267,2025-08-28,East,Bhubaneswar,Corporate,In-Store,Technology,Keyboard,8,45,0.15,306.0,144,162.0,Aug,8,2025,0.5294117647058824
+ORD0119,2025-08-29,East,Patna,Small Business,In-Store,Furniture,Office Chair,13,180,0.0,2340.0,1495,845.0,Aug,8,2025,0.3611111111111111
+ORD0105,2025-08-29,West,Pune,Corporate,In-Store,Technology,Wireless Mouse,10,25,0.05,237.5,100,137.5,Aug,8,2025,0.5789473684210527
+ORD0334,2025-08-29,Central,Indore,Consumer,In-Store,Office Supplies,Printer Paper,2,22,0.2,35.2,28,7.2,Aug,8,2025,0.20454545454545453
+ORD0494,2025-08-30,West,Pune,Small Business,In-Store,Technology,Headphones,13,80,0.1,936.0,455,481.0,Aug,8,2025,0.5138888888888888
+ORD0283,2025-08-30,South,Hyderabad,Small Business,Online,Office Supplies,Stapler,13,18,0.15,198.9,91,107.9,Aug,8,2025,0.5424836601307189
+ORD0326,2025-08-31,South,Bengaluru,Consumer,In-Store,Office Supplies,Printer Paper,3,22,0.15,56.1,42,14.1,Aug,8,2025,0.25133689839572193
+ORD0068,2025-09-01,South,Hyderabad,Consumer,In-Store,Technology,Wireless Mouse,1,25,0.0,25.0,10,15.0,Sep,9,2025,0.6
+ORD0168,2025-09-01,West,Pune,Corporate,Partner,Furniture,Office Chair,12,180,0.0,2160.0,1380,780.0,Sep,9,2025,0.3611111111111111
+ORD0204,2025-09-01,Central,Nagpur,Consumer,Online,Furniture,Desk,6,320,0.15,1632.0,1320,312.0,Sep,9,2025,0.19117647058823528
+ORD0035,2025-09-07,East,Kolkata,Unknown,In-Store,Office Supplies,Stapler,11,18,0.2,158.4,77,81.4,Sep,9,2025,0.513888888888889
+ORD0387,2025-09-08,South,Hyderabad,Small Business,In-Store,Office Supplies,Notebook Pack,5,15,0.2,60.0,30,30.0,Sep,9,2025,0.5
+ORD0287,2025-09-08,East,Bhubaneswar,Corporate,In-Store,Office Supplies,Pens Set,12,12,0.2,115.2,48,67.2,Sep,9,2025,0.5833333333333334
+ORD0120,2025-09-09,East,Kolkata,Corporate,In-Store,Technology,USB Hub,7,30,0.2,168.0,84,84.0,Sep,9,2025,0.5
+ORD0448,2025-09-09,North,Delhi,Consumer,Partner,Technology,USB Hub,4,30,0.1,108.0,48,60.0,Sep,9,2025,0.5555555555555556
+ORD0437,2025-09-12,North,Chandigarh,Small Business,In-Store,Office Supplies,Stapler,11,18,0.0,198.0,77,121.0,Sep,9,2025,0.6111111111111112
+ORD0425,2025-09-13,South,Hyderabad,Small Business,Online,Office Supplies,Printer Paper,2,22,0.0,44.0,28,16.0,Sep,9,2025,0.36363636363636365
+ORD0274,2025-09-14,South,Bengaluru,Consumer,Online,Technology,USB Hub,9,30,0.1,243.0,108,135.0,Sep,9,2025,0.5555555555555556
+ORD0467,2025-09-15,Central,Indore,Corporate,In-Store,Office Supplies,Desk Organizer,15,28,0.15,357.0,165,192.0,Sep,9,2025,0.5378151260504201
+ORD0205,2025-09-16,West,Ahmedabad,Consumer,Online,Technology,Headphones,12,80,0.0,960.0,420,540.0,Sep,9,2025,0.5625
+ORD0450,2025-09-16,West,Mumbai,Small Business,In-Store,Furniture,Office Chair,10,180,0.0,1800.0,1150,650.0,Sep,9,2025,0.3611111111111111
+ORD0201,2025-09-17,East,Kolkata,Corporate,In-Store,Office Supplies,Stapler,1,18,0.05,17.1,7,10.1,Sep,9,2025,0.5906432748538011
+ORD0019,2025-09-17,North,Jaipur,Consumer,Online,Furniture,Bookshelf,14,150,0.2,1680.0,1330,350.0,Sep,9,2025,0.20833333333333334
+ORD0213,2025-09-17,South,Hyderabad,Small Business,Partner,Technology,Wireless Mouse,5,25,0.0,125.0,50,75.0,Sep,9,2025,0.6
+ORD0123,2025-09-21,East,Kolkata,Small Business,Partner,Office Supplies,Notebook Pack,13,15,0.1,175.5,78,97.5,Sep,9,2025,0.5555555555555556
+ORD0264,2025-09-21,East,Patna,Consumer,In-Store,Office Supplies,Pens Set,13,12,0.05,148.2,52,96.2,Sep,9,2025,0.6491228070175439
+ORD0235,2025-09-21,South,Chennai,Small Business,In-Store,Technology,Headphones,15,80,0.05,1140.0,525,615.0,Sep,9,2025,0.5394736842105263
+ORD0275,2025-09-23,South,Chennai,Consumer,Partner,Furniture,Bookshelf,13,150,0.1,1755.0,1235,520.0,Sep,9,2025,0.2962962962962963
+ORD0449,2025-09-24,East,Bhubaneswar,Small Business,In-Store,Technology,Wireless Mouse,15,25,0.0,375.0,150,225.0,Sep,9,2025,0.6
+ORD0498,2025-09-25,South,Chennai,Small Business,Partner,Furniture,Office Chair,14,180,0.1,2268.0,1610,658.0,Sep,9,2025,0.29012345679012347
+ORD0206,2025-09-25,South,Hyderabad,Consumer,In-Store,Furniture,Lamp,8,55,0.15,374.0,216,158.0,Sep,9,2025,0.42245989304812837
+ORD0092,2025-09-25,West,Ahmedabad,Corporate,Partner,Furniture,Desk,7,320,0.0,2240.0,1540,700.0,Sep,9,2025,0.3125
+ORD0339,2025-09-26,West,Mumbai,Consumer,Partner,Technology,USB Hub,11,30,0.0,330.0,132,198.0,Sep,9,2025,0.6
+ORD0344,2025-09-26,West,Mumbai,Consumer,Online,Technology,Wireless Mouse,15,25,0.0,375.0,150,225.0,Sep,9,2025,0.6
+ORD0225,2025-09-28,South,Chennai,Consumer,In-Store,Technology,USB Hub,12,30,0.15,306.0,144,162.0,Sep,9,2025,0.5294117647058824
+ORD0184,2025-09-29,South,Bengaluru,Corporate,In-Store,Furniture,Office Chair,2,180,0.2,288.0,230,58.0,Sep,9,2025,0.2013888888888889
+ORD0141,2025-09-29,East,Bhubaneswar,Small Business,Partner,Office Supplies,Printer Paper,3,22,0.0,66.0,42,24.0,Sep,9,2025,0.36363636363636365
+ORD0245,2025-09-29,East,Bhubaneswar,Corporate,In-Store,Office Supplies,Notebook Pack,10,15,0.0,150.0,60,90.0,Sep,9,2025,0.6
+ORD0277,2025-09-30,East,Bhubaneswar,Small Business,Partner,Furniture,Bookshelf,9,150,0.15,1147.5,855,292.5,Sep,9,2025,0.2549019607843137
+ORD0342,2025-09-30,Central,Nagpur,Corporate,Online,Office Supplies,Printer Paper,1,22,0.0,22.0,14,8.0,Sep,9,2025,0.36363636363636365
+ORD0022,2025-09-30,North,Delhi,Consumer,Partner,Technology,Monitor,14,220,0.0,3080.0,2030,1050.0,Sep,9,2025,0.3409090909090909
+ORD0454,2025-10-02,West,Pune,Consumer,In-Store,Office Supplies,Desk Organizer,7,28,0.0,196.0,77,119.0,Oct,10,2025,0.6071428571428571
+ORD0386,2025-10-02,South,Bengaluru,Corporate,In-Store,Office Supplies,Notebook Pack,10,15,0.0,150.0,60,90.0,Oct,10,2025,0.6
+ORD0031,2025-10-02,East,Bhubaneswar,Consumer,In-Store,Technology,Keyboard,4,45,0.0,180.0,72,108.0,Oct,10,2025,0.6
+ORD0309,2025-10-02,North,Delhi,Consumer,In-Store,Furniture,Filing Cabinet,4,210,0.15,714.0,540,174.0,Oct,10,2025,0.24369747899159663
+ORD0101,2025-10-02,North,Jaipur,Consumer,Online,Furniture,Desk,6,320,0.0,1920.0,1320,600.0,Oct,10,2025,0.3125
+ORD0316,2025-10-03,Central,Indore,Small Business,Online,Technology,Headphones,2,80,0.0,160.0,70,90.0,Oct,10,2025,0.5625
+ORD0075,2025-10-04,East,Kolkata,Consumer,Online,Technology,Headphones,6,80,0.05,456.0,210,246.0,Oct,10,2025,0.5394736842105263
+ORD0490,2025-10-04,West,Pune,Small Business,In-Store,Furniture,Filing Cabinet,12,210,0.2,2016.0,1620,396.0,Oct,10,2025,0.19642857142857142
+ORD0398,2025-10-05,North,Delhi,Small Business,In-Store,Office Supplies,Stapler,14,18,0.05,239.4,98,141.4,Oct,10,2025,0.5906432748538012
+ORD0446,2025-10-05,South,Chennai,Small Business,Partner,Technology,Monitor,1,220,0.0,220.0,145,75.0,Oct,10,2025,0.3409090909090909
+ORD0239,2025-10-07,North,Chandigarh,Corporate,Online,Office Supplies,Stapler,14,18,0.0,252.0,98,154.0,Oct,10,2025,0.6111111111111112
+ORD0064,2025-10-08,South,Bengaluru,Corporate,In-Store,Furniture,Filing Cabinet,5,210,0.1,945.0,675,270.0,Oct,10,2025,0.2857142857142857
+ORD0172,2025-10-08,South,Hyderabad,Corporate,In-Store,Office Supplies,Stapler,11,18,0.15,168.3,77,91.3,Oct,10,2025,0.5424836601307189
+ORD0397,2025-10-09,South,Hyderabad,Consumer,Partner,Office Supplies,Stapler,12,18,0.1,194.4,84,110.4,Oct,10,2025,0.5679012345679012
+ORD0272,2025-10-09,East,Bhubaneswar,Small Business,Partner,Technology,Monitor,9,220,0.1,1782.0,1305,477.0,Oct,10,2025,0.2676767676767677
+ORD0347,2025-10-10,North,Chandigarh,Consumer,Partner,Technology,Monitor,7,220,0.1,1386.0,1015,371.0,Oct,10,2025,0.2676767676767677
+ORD0132,2025-10-10,West,Ahmedabad,Corporate,In-Store,Furniture,Lamp,6,55,0.05,313.5,162,151.5,Oct,10,2025,0.48325358851674644
+ORD0104,2025-10-11,Central,Indore,Small Business,Online,Technology,Headphones,1,80,0.0,80.0,35,45.0,Oct,10,2025,0.5625
+ORD0440,2025-10-11,East,Patna,Small Business,Partner,Office Supplies,Pens Set,3,12,0.0,36.0,12,24.0,Oct,10,2025,0.6666666666666666
+ORD0360,2025-10-11,West,Mumbai,Small Business,Partner,Technology,Wireless Mouse,2,25,0.05,47.5,20,27.5,Oct,10,2025,0.5789473684210527
+ORD0355,2025-10-11,East,Bhubaneswar,Corporate,Online,Office Supplies,Printer Paper,4,22,0.05,83.6,56,27.6,Oct,10,2025,0.3301435406698565
+ORD0203,2025-10-11,Central,Nagpur,Consumer,In-Store,Furniture,Lamp,8,55,0.15,374.0,216,158.0,Oct,10,2025,0.42245989304812837
+ORD0099,2025-10-11,South,Hyderabad,Corporate,In-Store,Office Supplies,Stapler,6,18,0.1,97.2,42,55.2,Oct,10,2025,0.5679012345679012
+ORD0230,2025-10-11,Central,Bhopal,Corporate,In-Store,Furniture,Filing Cabinet,13,210,0.15,2320.5,1755,565.5,Oct,10,2025,0.24369747899159663
+ORD0219,2025-10-11,North,Delhi,Small Business,Partner,Furniture,Lamp,14,55,0.05,731.5,378,353.5,Oct,10,2025,0.48325358851674644
+ORD0164,2025-10-11,South,Bengaluru,Small Business,Online,Technology,USB Hub,4,30,0.0,120.0,48,72.0,Oct,10,2025,0.6
+ORD0177,2025-10-12,West,Mumbai,Small Business,Partner,Technology,Headphones,13,80,0.0,1040.0,455,585.0,Oct,10,2025,0.5625
+ORD0377,2025-10-13,East,Patna,Small Business,Partner,Technology,USB Hub,12,30,0.15,306.0,144,162.0,Oct,10,2025,0.5294117647058824
+ORD0394,2025-10-15,West,Ahmedabad,Small Business,In-Store,Technology,Keyboard,14,45,0.1,567.0,252,315.0,Oct,10,2025,0.5555555555555556
+ORD0271,2025-10-15,East,Kolkata,Corporate,Partner,Technology,Monitor,1,220,0.15,187.0,145,42.0,Oct,10,2025,0.22459893048128343
+ORD0107,2025-10-16,North,Chandigarh,Consumer,Online,Furniture,Office Chair,3,180,0.0,540.0,345,195.0,Oct,10,2025,0.3611111111111111
+ORD0444,2025-10-16,West,Pune,Small Business,Partner,Technology,Headphones,4,80,0.05,304.0,140,164.0,Oct,10,2025,0.5394736842105263
+ORD0350,2025-10-16,North,Jaipur,Consumer,Online,Technology,Headphones,15,80,0.15,1020.0,525,495.0,Oct,10,2025,0.4852941176470588
+ORD0147,2025-10-17,East,Patna,Small Business,Online,Technology,Monitor,5,220,0.0,1100.0,725,375.0,Oct,10,2025,0.3409090909090909
+ORD0183,2025-10-17,East,Patna,Corporate,Online,Technology,Keyboard,14,45,0.0,630.0,252,378.0,Oct,10,2025,0.6
+ORD0012,2025-10-18,East,Patna,Corporate,Online,Office Supplies,Desk Organizer,2,28,0.0,56.0,22,34.0,Oct,10,2025,0.6071428571428571
+ORD0094,2025-10-19,North,Jaipur,Small Business,In-Store,Office Supplies,Printer Paper,4,22,0.1,79.2,56,23.2,Oct,10,2025,0.29292929292929293
+ORD0491,2025-10-20,East,Patna,Corporate,Online,Technology,Wireless Mouse,1,25,0.1,22.5,10,12.5,Oct,10,2025,0.5555555555555556
+ORD0217,2025-10-20,East,Bhubaneswar,Corporate,In-Store,Office Supplies,Pens Set,6,12,0.2,57.6,24,33.6,Oct,10,2025,0.5833333333333334
+ORD0288,2025-10-21,Central,Nagpur,Small Business,In-Store,Furniture,Bookshelf,5,150,0.0,750.0,475,275.0,Oct,10,2025,0.36666666666666664
+ORD0391,2025-10-22,Central,Indore,Corporate,Online,Office Supplies,Printer Paper,10,22,0.0,220.0,140,80.0,Oct,10,2025,0.36363636363636365
+ORD0470,2025-10-22,East,Bhubaneswar,Corporate,Online,Furniture,Office Chair,13,180,0.0,2340.0,1495,845.0,Oct,10,2025,0.3611111111111111
+ORD0028,2025-10-23,South,Chennai,Consumer,In-Store,Furniture,Desk,12,320,0.15,3264.0,2640,624.0,Oct,10,2025,0.19117647058823528
+ORD0179,2025-10-23,East,Patna,Consumer,Online,Furniture,Bookshelf,6,150,0.0,900.0,570,330.0,Oct,10,2025,0.36666666666666664
+ORD0199,2025-10-24,North,Chandigarh,Small Business,Partner,Technology,Monitor,8,220,0.15,1496.0,1160,336.0,Oct,10,2025,0.22459893048128343
+ORD0131,2025-10-24,East,Patna,Corporate,Online,Furniture,Bookshelf,14,150,0.15,1785.0,1330,455.0,Oct,10,2025,0.2549019607843137
+ORD0373,2025-10-26,West,Pune,Small Business,Partner,Technology,Monitor,10,220,0.1,1980.0,1450,530.0,Oct,10,2025,0.2676767676767677
+ORD0310,2025-10-26,Central,Indore,Consumer,Partner,Office Supplies,Notebook Pack,11,15,0.0,165.0,66,99.0,Oct,10,2025,0.6
+ORD0475,2025-10-28,South,Hyderabad,Consumer,Online,Office Supplies,Notebook Pack,1,15,0.0,15.0,6,9.0,Oct,10,2025,0.6
+ORD0421,2025-10-29,North,Jaipur,Corporate,In-Store,Technology,Keyboard,13,45,0.0,585.0,234,351.0,Oct,10,2025,0.6
+ORD0102,2025-10-29,South,Hyderabad,Small Business,In-Store,Furniture,Lamp,5,55,0.2,220.0,135,85.0,Oct,10,2025,0.38636363636363635
+ORD0389,2025-10-30,Central,Bhopal,Small Business,Online,Technology,Headphones,15,80,0.15,1020.0,525,495.0,Oct,10,2025,0.4852941176470588
+ORD0093,2025-10-31,Central,Indore,Corporate,Online,Office Supplies,Printer Paper,7,22,0.2,123.2,98,25.2,Oct,10,2025,0.20454545454545453
+ORD0115,2025-11-01,North,Jaipur,Small Business,In-Store,Technology,Keyboard,13,45,0.05,555.75,234,321.75,Nov,11,2025,0.5789473684210527
+ORD0354,2025-11-01,South,Chennai,Corporate,Online,Technology,Headphones,10,80,0.15,680.0,350,330.0,Nov,11,2025,0.4852941176470588
+ORD0163,2025-11-02,North,Delhi,Consumer,In-Store,Furniture,Desk,11,320,0.2,2816.0,2420,396.0,Nov,11,2025,0.140625
+ORD0016,2025-11-02,West,Pune,Small Business,In-Store,Furniture,Office Chair,7,180,0.1,1134.0,805,329.0,Nov,11,2025,0.29012345679012347
+ORD0322,2025-11-03,East,Patna,Corporate,Online,Technology,USB Hub,6,30,0.15,153.0,72,81.0,Nov,11,2025,0.5294117647058824
+ORD0240,2025-11-05,North,Jaipur,Corporate,Online,Office Supplies,Desk Organizer,5,28,0.1,126.0,55,71.0,Nov,11,2025,0.5634920634920635
+ORD0173,2025-11-06,Central,Indore,Consumer,Partner,Furniture,Bookshelf,8,150,0.15,1020.0,760,260.0,Nov,11,2025,0.2549019607843137
+ORD0306,2025-11-07,South,Chennai,Corporate,Partner,Office Supplies,Pens Set,8,12,0.2,76.8,32,44.8,Nov,11,2025,0.5833333333333334
+ORD0023,2025-11-07,West,Pune,Consumer,Partner,Furniture,Desk,5,320,0.15,1360.0,1100,260.0,Nov,11,2025,0.19117647058823528
+ORD0401,2025-11-09,Central,Nagpur,Corporate,Online,Furniture,Bookshelf,14,150,0.2,1680.0,1330,350.0,Nov,11,2025,0.20833333333333334
+ORD0044,2025-11-10,South,Hyderabad,Small Business,Online,Office Supplies,Stapler,12,18,0.05,205.2,84,121.2,Nov,11,2025,0.5906432748538012
+ORD0072,2025-11-10,Central,Nagpur,Small Business,In-Store,Furniture,Filing Cabinet,6,210,0.1,1134.0,810,324.0,Nov,11,2025,0.2857142857142857
+ORD0169,2025-11-11,Central,Bhopal,Small Business,Partner,Technology,Monitor,9,220,0.0,1980.0,1305,675.0,Nov,11,2025,0.3409090909090909
+ORD0181,2025-11-11,South,Hyderabad,Small Business,Partner,Office Supplies,Stapler,13,18,0.15,198.9,91,107.9,Nov,11,2025,0.5424836601307189
+ORD0291,2025-11-12,Central,Nagpur,Small Business,Online,Furniture,Bookshelf,3,150,0.0,450.0,285,165.0,Nov,11,2025,0.36666666666666664
+ORD0160,2025-11-12,South,Chennai,Corporate,Online,Office Supplies,Notebook Pack,14,15,0.1,189.0,84,105.0,Nov,11,2025,0.5555555555555556
+ORD0420,2025-11-12,South,Hyderabad,Corporate,Online,Furniture,Desk,15,320,0.1,4320.0,3300,1020.0,Nov,11,2025,0.2361111111111111
+ORD0108,2025-11-13,North,Delhi,Small Business,In-Store,Furniture,Lamp,10,55,0.15,467.5,270,197.5,Nov,11,2025,0.42245989304812837
+ORD0007,2025-11-13,North,Chandigarh,Small Business,Online,Furniture,Bookshelf,14,150,0.2,1680.0,1330,350.0,Nov,11,2025,0.20833333333333334
+ORD0393,2025-11-14,East,Kolkata,Corporate,Online,Technology,Keyboard,6,45,0.1,243.0,108,135.0,Nov,11,2025,0.5555555555555556
+ORD0052,2025-11-14,North,Jaipur,Consumer,Online,Office Supplies,Stapler,15,18,0.1,243.0,105,138.0,Nov,11,2025,0.5679012345679012
+ORD0110,2025-11-17,North,Delhi,Corporate,Partner,Furniture,Office Chair,13,180,0.0,2340.0,1495,845.0,Nov,11,2025,0.3611111111111111
+ORD0139,2025-11-21,East,Patna,Consumer,In-Store,Technology,Wireless Mouse,7,25,0.0,175.0,70,105.0,Nov,11,2025,0.6
+ORD0357,2025-11-21,North,Delhi,Small Business,In-Store,Office Supplies,Pens Set,7,12,0.2,67.2,28,39.2,Nov,11,2025,0.5833333333333334
+ORD0257,2025-11-22,Central,Nagpur,Corporate,Online,Office Supplies,Notebook Pack,5,15,0.0,75.0,30,45.0,Nov,11,2025,0.6
+ORD0048,2025-11-23,North,Chandigarh,Consumer,Partner,Technology,Headphones,13,80,0.0,1040.0,455,585.0,Nov,11,2025,0.5625
+ORD0143,2025-11-23,West,Pune,Corporate,In-Store,Furniture,Desk,4,320,0.1,1152.0,880,272.0,Nov,11,2025,0.2361111111111111
+ORD0155,2025-11-23,West,Pune,Consumer,Partner,Office Supplies,Desk Organizer,10,28,0.1,252.0,110,142.0,Nov,11,2025,0.5634920634920635
+ORD0300,2025-11-24,East,Bhubaneswar,Corporate,Partner,Furniture,Desk,3,320,0.15,816.0,660,156.0,Nov,11,2025,0.19117647058823528
+ORD0418,2025-11-25,East,Patna,Consumer,Online,Technology,Monitor,13,220,0.0,2860.0,1885,975.0,Nov,11,2025,0.3409090909090909
+ORD0258,2025-11-25,East,Kolkata,Small Business,Partner,Furniture,Filing Cabinet,2,210,0.15,357.0,270,87.0,Nov,11,2025,0.24369747899159663
+ORD0030,2025-11-27,West,Mumbai,Consumer,In-Store,Furniture,Office Chair,11,180,0.2,1584.0,1265,319.0,Nov,11,2025,0.2013888888888889
+ORD0041,2025-11-27,South,Chennai,Corporate,In-Store,Office Supplies,Printer Paper,3,22,0.2,52.8,42,10.8,Nov,11,2025,0.20454545454545456
+ORD0422,2025-11-27,West,Mumbai,Consumer,Partner,Office Supplies,Pens Set,4,12,0.05,45.6,16,29.6,Nov,11,2025,0.6491228070175439
+ORD0382,2025-11-28,North,Delhi,Small Business,Online,Furniture,Office Chair,1,180,0.05,171.0,115,56.0,Nov,11,2025,0.32748538011695905
+ORD0464,2025-11-28,North,Chandigarh,Corporate,In-Store,Furniture,Filing Cabinet,10,210,0.0,2100.0,1350,750.0,Nov,11,2025,0.35714285714285715
+ORD0328,2025-11-28,West,Mumbai,Corporate,In-Store,Technology,Headphones,4,80,0.05,304.0,140,164.0,Nov,11,2025,0.5394736842105263
+ORD0114,2025-11-28,South,Bengaluru,Corporate,Online,Office Supplies,Notebook Pack,9,15,0.0,135.0,54,81.0,Nov,11,2025,0.6
+ORD0431,2025-11-29,Central,Nagpur,Small Business,Online,Office Supplies,Printer Paper,10,22,0.2,176.0,140,36.0,Nov,11,2025,0.20454545454545456
+ORD0003,2025-11-29,Central,Nagpur,Small Business,In-Store,Furniture,Office Chair,9,180,0.0,1620.0,1035,585.0,Nov,11,2025,0.3611111111111111
+ORD0024,2025-11-29,South,Chennai,Corporate,Partner,Furniture,Bookshelf,7,150,0.2,840.0,665,175.0,Nov,11,2025,0.20833333333333334
+ORD0134,2025-11-30,West,Mumbai,Corporate,Online,Furniture,Lamp,7,55,0.2,308.0,189,119.0,Nov,11,2025,0.38636363636363635
+ORD0303,2025-12-01,Central,Indore,Small Business,Online,Furniture,Filing Cabinet,1,210,0.05,199.5,135,64.5,Dec,12,2025,0.3233082706766917
+ORD0399,2025-12-01,Central,Bhopal,Corporate,Online,Technology,Monitor,2,220,0.2,352.0,290,62.0,Dec,12,2025,0.17613636363636365
+ORD0269,2025-12-01,North,Jaipur,Corporate,In-Store,Technology,Headphones,8,80,0.15,544.0,280,264.0,Dec,12,2025,0.4852941176470588
+ORD0384,2025-12-03,South,Chennai,Corporate,Online,Office Supplies,Pens Set,3,12,0.2,28.8,12,16.8,Dec,12,2025,0.5833333333333334
+ORD0149,2025-12-04,South,Hyderabad,Consumer,Partner,Furniture,Bookshelf,11,150,0.2,1320.0,1045,275.0,Dec,12,2025,0.20833333333333334
+ORD0372,2025-12-04,South,Bengaluru,Small Business,In-Store,Furniture,Bookshelf,4,150,0.05,570.0,380,190.0,Dec,12,2025,0.3333333333333333
+ORD0090,2025-12-05,Central,Indore,Consumer,Partner,Technology,Headphones,9,80,0.1,648.0,315,333.0,Dec,12,2025,0.5138888888888888
+ORD0451,2025-12-06,North,Delhi,Consumer,In-Store,Furniture,Filing Cabinet,1,210,0.1,189.0,135,54.0,Dec,12,2025,0.2857142857142857
+ORD0284,2025-12-06,South,Chennai,Small Business,In-Store,Furniture,Desk,9,320,0.05,2736.0,1980,756.0,Dec,12,2025,0.27631578947368424
+ORD0209,2025-12-06,Central,Bhopal,Corporate,In-Store,Technology,Headphones,2,80,0.15,136.0,70,66.0,Dec,12,2025,0.4852941176470588
+ORD0476,2025-12-06,Central,Indore,Small Business,Online,Office Supplies,Notebook Pack,6,15,0.2,72.0,36,36.0,Dec,12,2025,0.5
+ORD0178,2025-12-07,Central,Indore,Small Business,Online,Office Supplies,Notebook Pack,7,15,0.05,99.75,42,57.75,Dec,12,2025,0.5789473684210527
+ORD0063,2025-12-07,East,Bhubaneswar,Small Business,Partner,Furniture,Desk,4,320,0.1,1152.0,880,272.0,Dec,12,2025,0.2361111111111111
+ORD0062,2025-12-08,North,Chandigarh,Corporate,In-Store,Furniture,Bookshelf,9,150,0.05,1282.5,855,427.5,Dec,12,2025,0.3333333333333333
+ORD0080,2025-12-09,West,Ahmedabad,Corporate,Partner,Office Supplies,Notebook Pack,7,15,0.05,99.75,42,57.75,Dec,12,2025,0.5789473684210527
+ORD0211,2025-12-10,East,Bhubaneswar,Small Business,In-Store,Technology,USB Hub,2,30,0.2,48.0,24,24.0,Dec,12,2025,0.5
+ORD0330,2025-12-10,North,Jaipur,Consumer,In-Store,Technology,Keyboard,13,45,0.15,497.25,234,263.25,Dec,12,2025,0.5294117647058824
+ORD0278,2025-12-11,East,Kolkata,Corporate,Partner,Office Supplies,Notebook Pack,6,15,0.05,85.5,36,49.5,Dec,12,2025,0.5789473684210527
+ORD0317,2025-12-11,South,Hyderabad,Small Business,In-Store,Technology,Wireless Mouse,5,25,0.1,112.5,50,62.5,Dec,12,2025,0.5555555555555556
+ORD0118,2025-12-12,Central,Nagpur,Small Business,Online,Office Supplies,Notebook Pack,2,15,0.0,30.0,12,18.0,Dec,12,2025,0.6
+ORD0500,2025-12-13,Central,Nagpur,Consumer,Online,Furniture,Filing Cabinet,13,210,0.15,2320.5,1755,565.5,Dec,12,2025,0.24369747899159663
+ORD0352,2025-12-13,South,Hyderabad,Corporate,In-Store,Furniture,Desk,10,320,0.1,2880.0,2200,680.0,Dec,12,2025,0.2361111111111111
+ORD0208,2025-12-14,East,Bhubaneswar,Corporate,In-Store,Technology,Headphones,2,80,0.15,136.0,70,66.0,Dec,12,2025,0.4852941176470588
+ORD0378,2025-12-14,South,Hyderabad,Small Business,Partner,Office Supplies,Desk Organizer,7,28,0.1,176.4,77,99.4,Dec,12,2025,0.5634920634920635
+ORD0242,2025-12-14,North,Delhi,Consumer,Online,Technology,Monitor,6,220,0.15,1122.0,870,252.0,Dec,12,2025,0.22459893048128343
+ORD0207,2025-12-14,East,Patna,Consumer,Partner,Office Supplies,Printer Paper,7,22,0.05,146.3,98,48.3,Dec,12,2025,0.3301435406698564
+ORD0254,2025-12-15,East,Patna,Corporate,Online,Furniture,Office Chair,8,180,0.1,1296.0,920,376.0,Dec,12,2025,0.29012345679012347
+ORD0337,2025-12-17,Central,Indore,Corporate,In-Store,Technology,Monitor,9,220,0.2,1584.0,1305,279.0,Dec,12,2025,0.17613636363636365
+ORD0060,2025-12-18,West,Ahmedabad,Small Business,Partner,Technology,USB Hub,15,30,0.15,382.5,180,202.5,Dec,12,2025,0.5294117647058824
+ORD0349,2025-12-21,North,Jaipur,Corporate,In-Store,Furniture,Office Chair,4,180,0.0,720.0,460,260.0,Dec,12,2025,0.3611111111111111
+ORD0407,2025-12-22,North,Chandigarh,Corporate,In-Store,Office Supplies,Stapler,12,18,0.05,205.2,84,121.2,Dec,12,2025,0.5906432748538012
+ORD0368,2025-12-22,South,Hyderabad,Corporate,Partner,Office Supplies,Desk Organizer,5,28,0.2,112.0,55,57.0,Dec,12,2025,0.5089285714285714
+ORD0367,2025-12-22,Central,Bhopal,Corporate,In-Store,Technology,Headphones,6,80,0.15,408.0,210,198.0,Dec,12,2025,0.4852941176470588
+ORD0069,2025-12-23,West,Pune,Corporate,In-Store,Furniture,Filing Cabinet,4,210,0.2,672.0,540,132.0,Dec,12,2025,0.19642857142857142
+ORD0159,2025-12-23,South,Hyderabad,Corporate,Partner,Office Supplies,Printer Paper,6,22,0.2,105.6,84,21.6,Dec,12,2025,0.20454545454545456
+ORD0471,2025-12-24,South,Chennai,Small Business,Online,Technology,USB Hub,6,30,0.2,144.0,72,72.0,Dec,12,2025,0.5
+ORD0250,2025-12-25,East,Patna,Consumer,In-Store,Office Supplies,Pens Set,12,12,0.2,115.2,48,67.2,Dec,12,2025,0.5833333333333334
+ORD0116,2025-12-25,West,Pune,Corporate,Partner,Technology,Monitor,12,220,0.05,2508.0,1740,768.0,Dec,12,2025,0.3062200956937799
+ORD0096,2025-12-26,East,Bhubaneswar,Small Business,Online,Office Supplies,Desk Organizer,15,28,0.15,357.0,165,192.0,Dec,12,2025,0.5378151260504201
+ORD0434,2025-12-26,South,Bengaluru,Consumer,In-Store,Technology,Wireless Mouse,12,25,0.0,300.0,120,180.0,Dec,12,2025,0.6
+ORD0374,2025-12-26,West,Ahmedabad,Small Business,Partner,Furniture,Office Chair,13,180,0.05,2223.0,1495,728.0,Dec,12,2025,0.32748538011695905
+ORD0488,2025-12-27,North,Delhi,Corporate,Partner,Office Supplies,Stapler,10,18,0.1,162.0,70,92.0,Dec,12,2025,0.5679012345679012
+ORD0320,2025-12-27,Central,Bhopal,Consumer,Partner,Technology,Monitor,10,220,0.2,1760.0,1450,310.0,Dec,12,2025,0.17613636363636365
+ORD0403,2025-12-27,East,Bhubaneswar,Corporate,Partner,Furniture,Filing Cabinet,3,210,0.05,598.5,405,193.5,Dec,12,2025,0.3233082706766917
+ORD0247,2025-12-27,Central,Indore,Consumer,Partner,Technology,Headphones,13,80,0.05,988.0,455,533.0,Dec,12,2025,0.5394736842105263
+ORD0026,2025-12-29,South,Hyderabad,Consumer,Online,Furniture,Desk,1,320,0.0,320.0,220,100.0,Dec,12,2025,0.3125
+ORD0249,2025-12-30,West,Mumbai,Small Business,Partner,Technology,Headphones,11,80,0.05,836.0,385,451.0,Dec,12,2025,0.5394736842105263
+ORD0351,2025-12-31,East,Bhubaneswar,Consumer,In-Store,Technology,Keyboard,10,45,0.0,450.0,180,270.0,Dec,12,2025,0.6
